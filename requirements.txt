@@ -11,3 +11,4 @@ Pillow
 timm
 grad-cam
 opencv-python-headless
+--no-binary opencv-python
