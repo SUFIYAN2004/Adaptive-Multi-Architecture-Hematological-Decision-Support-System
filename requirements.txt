@@ -1,6 +1,7 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
 streamlit>=1.35
-torch>=2.0
-torchvision>=0.15
 ultralytics>=8.3
 segmentation-models-pytorch>=0.3
 scikit-image
@@ -11,4 +12,3 @@ Pillow
 timm
 grad-cam
 opencv-python-headless
---no-binary opencv-python
